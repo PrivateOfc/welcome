@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: welcome-1eh.pages.dev
+Token: 658fd3f41e158a2b0fdbc115fa15f6460eb4281a56844b8839ec8a0bf9083453
