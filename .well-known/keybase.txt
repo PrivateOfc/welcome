@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/grsslg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://welcome-1eh.pages.dev
+  * I am grsslg (https://keybase.io/grsslg) on keybase.
+  * I have a public key ASAT21tfTxQj8luz_pOdxn5NyzsuIQ8MkcflwCGTceq4hgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012013db5b5f4f1423f25bb3fe939dc67e4dcb3b2e210f0c91c7e5c0219371eab8860a",
+      "host": "keybase.io",
+      "kid": "012013db5b5f4f1423f25bb3fe939dc67e4dcb3b2e210f0c91c7e5c0219371eab8860a",
+      "uid": "7973990d9a0fd5691a9b2067d162f019",
+      "username": "grsslg"
+    },
+    "merkle_root": {
+      "ctime": 1664224109,
+      "hash": "6ab96ed99e1546a387ffd91058dcffd6e0b95fc3450df51aef57d0a8c63403635a400320cc80e0392e3b67020001109a2557ad39b23e9d2604c1c2df31e4e2cd",
+      "hash_meta": "7e67952fd84177fab22a2be0a427729fae78cfb276b83add59d856ea646e929e",
+      "seqno": 23263915
+    },
+    "service": {
+      "entropy": "UUaTQIp7qvnhKrEHuT947HN7",
+      "hostname": "welcome-1eh.pages.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1664224255,
+  "expire_in": 504576000,
+  "prev": "1f65d7432a9677863654148a0816e2d9bc97c6766f9dff6dce0d86e269c2ce98",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgE9tbX08UI/Jbs/6TncZ+Tcs7LiEPDJHH5cAhk3HquIYKp3BheWxvYWTESpcCB8QgH2XXQyqWd4Y2VBSKCBbi2byXxnZvnf9tzg2G4mnCzpjEIBZIuUGa975C79XTOVC5H77xvSl3sT0E4F0losAJhY+OAgHCo3NpZ8RApYnM17yyJnL0OLoZ4JhH3CQuQSbdLGTKKkvlUxvj14nsshEh1NQNzaP+q2OqxsG+7FkRC7u/h4BxQOw50LB7AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICkaU7QPBrxYFVmqEpKFV1Iv8I8vSen3fB3uuQ5e0GS7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grsslg
+
+==================================================================
