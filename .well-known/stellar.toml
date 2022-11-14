@@ -41,3 +41,15 @@ desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
 fixed_number="1000000000"
+
+[[CURRENCIES]]
+code="LVMREIT"
+issuer="GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
+is_asset_anchored="false"
+display_decimals=4
+attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=LVMREIT-GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
+name="Las Vegas Mortgage REIT"
+desc="Fungible base/counter cryptocurrency"
+conditions="Active burn policy. Issuer may mint additional tokens."
+image=""
+fixed_number="1000000000"
