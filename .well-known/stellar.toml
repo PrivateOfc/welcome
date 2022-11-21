@@ -34,35 +34,35 @@ verification_photo_hash=""
 [[CURRENCIES]]
 code="GrSSLG"
 issuer="GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"
-is_asset_anchored="false"
+is_asset_anchored=false
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/GrSSLG-GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D-2?filter=markets"
 name="Gr. SSLG Meteors"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
-fixed_number="1000000000"
+fixed_number=1000000000
 
 [[CURRENCIES]]
 code="LVMREIT"
 issuer="GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
-is_asset_anchored="false"
+is_asset_anchored=false
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/market?asset=LVMREIT-GBBT7SR6TODAKWJDG3NJEARPRQEDKO6AAR35Q36YQZP6367FQASLLW3F"
 name="Las Vegas Mortgage REIT"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
-fixed_number="10000000"
+fixed_number=10000000
 
 [[CURRENCIES]]
 code="LUXPENTHOUSE"
 issuer="GDCKAEVFWN3YNHU4L7JBXY2CRABILVCY5OHIH7Q5CDXDBFGO2M7ZITRY"
-is_asset_anchored="false"
+is_asset_anchored=false
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/LUXPENTHOUSE-GDCKAEVFWN3YNHU4L7JBXY2CRABILVCY5OHIH7Q5CDXDBFGO2M7ZITRY-2?filter=markets"
 name="Luxury Penthouse"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
-fixed_number="2000000000"
+fixed_number=2000000000
