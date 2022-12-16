@@ -4,7 +4,8 @@ TRANSFER_SERVER="https://api.stellar.org/auth"
 SIGNING_KEY="GD57PYZVUO4P4IDGX7OX4RTLOKI2R5MHJUEZ4SAXAS3TY37QMMJX4BN7"
 HORIZON_URL="https://horizon.stellar.org"
 ACCOUNTS=["GD57PYZVUO4P4IDGX7OX4RTLOKI2R5MHJUEZ4SAXAS3TY37QMMJX4BN7","GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D",
-"GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX", "GBBQJNCQ7UDMZU2ZZM2GSBTCSHY3K2GXVWWHY7NB3TPW65AKYGP777SB"]
+"GDO6ZJO6TRDGW5BP3H3MNICDTWL4WS45Y3BZCN4D42VM5RC6NIXLYWLX", "GBBQJNCQ7UDMZU2ZZM2GSBTCSHY3K2GXVWWHY7NB3TPW65AKYGP777SB",
+"GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"]
 
 VERSION="2.0.0"
 [DOCUMENTATION]
@@ -66,3 +67,29 @@ desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
 fixed_number=2000000000
+
+[[CURRENCIES]]
+code="LVRENFT"
+issuer="GDWBLEQAPLFFDYFIQS4XEJBKODBRMGAL47PPIMUU2EO2HREIAKWZNLJ5"
+is_asset_anchored=false
+display_decimals=4
+attestation_of_reserve=""
+name="Las Vegas Real Estate NFT"
+desc="Non-Fungible base/counter cryptocurrency"
+conditions="NFT"
+image=""
+fixed_number=1
+
+[[CURRENCIES]]
+code="LVRENFT"
+issuer="GDWBLEQAPLFFDYFIQS4XEJBKODBRMGAL47PPIMUU2EO2HREIAKWZNLJ5"
+is_asset_anchored=false
+display_decimals=4
+attestation_of_reserve=""
+name="Las Vegas Real Estate NFT Rights"
+desc="Non-Fungible base/counter cryptocurrency"
+conditions="NFT Rights"
+image=""
+fixed_number=5000
+
+
