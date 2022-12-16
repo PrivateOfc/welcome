@@ -74,7 +74,7 @@ code="LVRENFT"
 issuer="GDWBLEQAPLFFDYFIQS4XEJBKODBRMGAL47PPIMUU2EO2HREIAKWZNLJ5"
 is_asset_anchored=true
 display_decimals=4
-attestation_of_reserve=""
+attestation_of_reserve="https://stellar.expert/explorer/public/search?term=GDWBLEQAPLFFDYFIQS4XEJBKODBRMGAL47PPIMUU2EO2HREIAKWZNLJ5"
 name="Las Vegas Real Estate NFT"
 desc="Non-Fungible base/counter cryptocurrency"
 conditions="LV Real Estate NFT"
