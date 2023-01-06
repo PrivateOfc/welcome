@@ -77,7 +77,7 @@ display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/search?term=GDWBLEQAPLFFDYFIQS4XEJBKODBRMGAL47PPIMUU2EO2HREIAKWZNLJ5"
 name="Las Vegas Real Estate NFT"
 desc="Non-Fungible base/counter cryptocurrency"
-conditions="LV Real Estate NFT"
+conditions="LV Real Estate NFT."
 image=""
 fixed_number=1
 
@@ -86,10 +86,10 @@ code="LVRENFT"
 issuer="GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
 is_asset_anchored=true
 display_decimals=4
-attestation_of_reserve=""
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/LVRENFT-GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6-2"
 name="Las Vegas Real Estate NFT Rights"
 desc="Non-Fungible base/counter cryptocurrency"
-conditions="NFT"
+conditions="NFT. Rights to acquire LVRENFT"
 image=""
 fixed_number=5000
 
