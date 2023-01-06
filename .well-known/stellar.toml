@@ -90,7 +90,7 @@ display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/LVRENFT-GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6-2"
 name="Las Vegas Real Estate NFT Rights"
 desc="Non-Fungible base/counter cryptocurrency"
-conditions="NFT. Rights to acquire LVRENFT. Additionally may be utilized for right of first offer or right of first refusal to acquire real property."
+conditions="NFT. Rights to acquire LVRENFT. NFT rights may be utilized  for right of first offer or right of first refusal to acquire real property."
 image=""
 fixed_number=5000
 
